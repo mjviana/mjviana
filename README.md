@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Mário Viana</h1>
-<h3 align="center">Hello World! 🖥️</h3>
+<h1 align="center">Hello World! 🖥️</h1>
+<h3 align="center">Hi 👋, I'm Mário Viana</h3>
 
 <a href="https://app.daily.dev/mjviana"><img align="right" src="https://github.com/mjviana/mjviana/blob/main/devcard.svg" width="300" alt="Mário Viana's Dev Card"/></a>  
   
