@@ -4,7 +4,7 @@
 
 <a href="https://app.daily.dev/mjviana"><img align="right" src="https://github.com/mjviana/mjviana/blob/main/devcard.svg" width="300" alt="Mário Viana's Dev Card"/></a>  
   
-- 🧑‍💻 Currently I'm working as a software developer at [Axians](https://www.axians.pt/)
+- 🧑‍💻 Currently I'm working as a software developer at [Continental](https://www.continental-pneus.pt/) by [Axians](https://www.axians.pt/)
 
 - 🧑‍🎓 I’m taking a master's degree in computer engineering at [IPCA](https://ipca.pt/)
 
