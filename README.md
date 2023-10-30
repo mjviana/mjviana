@@ -6,7 +6,7 @@
 
 - 🧑‍🎓 I’m taking a master's degree in computer engineering at [IPCA](https://ipca.pt/)
 
-- 🌱 I’m learning **microservices develpment**
+- 🌱 I’m learning **blockchain develpment** using *Solidity*
 
 - 🍣 I really love **sushi**
 
