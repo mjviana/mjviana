@@ -44,5 +44,4 @@
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjviana&show_icons=true&locale=en&layout=compact&theme=radical" alt="mjviana" />
 
 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=mjviana&show_icons=true&locale=en&theme=radical" alt="mjviana" />
-
 <img align="center" width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mjviana&theme=radical" alt="mjviana" />
