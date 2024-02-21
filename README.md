@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 🖥️</h1>
 
-<a href="https://app.daily.dev/mjviana"><img align="right" src="https://github.com/mjviana/mjviana/blob/main/devcard.svg" width="300" alt="Mário Viana's Dev Card"/></a>
+<a href="https://app.daily.dev/mjviana"><img align="right" src="https://github.com/mjviana/mjviana/blob/main/devcard.png" width="300" alt="Mário Viana's Dev Card"/></a>
 
 - 🧑‍💻 Currently I'm working as a Fullstack Software Developer at [Continental](https://www.continental-pneus.pt/).
 
