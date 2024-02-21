@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 🖥️</h1>
 
-<a href="https://app.daily.dev/mjviana"><img align="right" src="https://github.com/mjviana/mjviana/blob/main/devcard.png" width="300" alt="Mário Viana's Dev Card"/></a>
+<a href="https://app.daily.dev/mjviana"><img align="right" src="./devcard.png" width="300" alt="Mário Viana's Dev Card"/></a>
 
 - 🧑‍💻 Currently I'm working as a Fullstack Software Developer at [Continental](https://www.continental-pneus.pt/).
 
@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mário-viana-7954b218a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mário-viana-7954b218a" height="30" width="40" /></a>
+
 <a href="https://instagram.com/mariojviana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariojviana" height="30" width="40" /></a>
 </p>
 
